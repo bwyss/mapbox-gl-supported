@@ -1,0 +1,17 @@
+{
+  "name": "mapbox-gl-supported",
+  "description": "A library to determine if a browser supports Mapbox GL JS",
+  "main": "build/v1.2.0/mapbox-gl-supported.js",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "Mapbox"
+  ],
+  "homepage": "https://github.com/bwyss/mapbox-gl-supported",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
